@@ -1,0 +1,7 @@
+<article class="netzwerk">
+<h2 class="text-danger">Einfachste Vernetzbarkeit</h2>
+<p>Gastronomiekassen sollten einfach vernetzbar sein. <strong>BONiFlex</strong> wurde für eine besonders einfache und zuverlässige Vernetzbarkeit entwickelt. Sie installieren auf den einzelnen Kassenplätzen eine <strong>BONiFlex</strong> Lizenz, geben der Kasse an, auf welchem der im Netzwerk befindlichen Arbeitsplätze sich die benötigte Datenbank befindet, und schon ist die Vernetzung abgeschlossen. Der Vorteil liegt auf der Hand: Ein weiterer Kassenplatz kann in Minutenschelle hinzugefügt werden und die Datensicherung Ihrer wertvollen Bewegdaten braucht nur an einem einzigen Arbeitsplatz durchgeführt zu werden.</p>
+<p>Änderungen an Ihren Daten, die an einem Kassenplatz durchgeführt werden, sind sofort an allen anderen Kassen im Netzwerk wirksam ohne dass Sie diese explizit senden oder übertragen müssen.</p>
+<p>Ohne jede weitere Konfiguration ist direkt nach der Installation des Kassennetzes Tisch-Floating möglich. Dadurch kann von jeder Kasse aus auf alle Tische zugegriffen werden und das Service-Personal ist für Bestelleingaben und Tischabrechnungen nicht mehr an eine bestimmte Kasse gebunden. Sollte eine Kasse gerade durch einen Kollegen benutzt werden, kann der Kellner einfach an die nächstgelegene Kasse gehen.</p>      	  	       
+<p>Prinzipiell können Sie im Netzwerk eine nahezu beliebige Anzahl von Kassenplätzen installieren. Im folgenden geben wir einige Beispiele für verschiedene Netzwerkvarianten.</p>
+</article><!-- netzwerk -->

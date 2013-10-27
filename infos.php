@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Gastrokasse BONiFlex -- Infos</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
@@ -11,13 +12,15 @@
 
     <section class="container">
       <div class="content row">
+        <?php include "_/components/php/header.php"; ?>
         <section class="main col col-lg-8">
-          <?php include "_/components/php/header.php"; ?>
+        <?php include "_/components/php/articel-infos.php"; ?>
         </section><!-- main -->
         <section class="sidebar col col-lg-4">
 
         </section><!-- sidebar -->
       </div><!-- content -->
+          <?php include "_/components/php/footer.php"; ?>
     </section><!-- container -->
 
     <script src="_/js/bootstrap.js"></script>
